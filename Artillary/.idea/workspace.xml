@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f984a47-a24c-404d-b05b-21825230c436" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2f984a47-a24c-404d-b05b-21825230c436" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.floo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flooignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Artillary/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Artillary/Tank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestTank.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,24 +27,17 @@
   </component>
   <component name="ProjectId" id="1Uk42hGRXP8gN58DZyCCdZiULAX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java2/Artillery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java2/P2W4" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="TestTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -53,6 +53,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -65,6 +77,7 @@
       <updated>1575887053305</updated>
       <workItem from="1575887059523" duration="3368000" />
       <workItem from="1575890456422" duration="1126000" />
+      <workItem from="1575904382255" duration="3340000" />
     </task>
     <servers />
   </component>
@@ -76,16 +89,38 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1575904466463">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1576060554647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575904466463" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1576060554647" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1576060059938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576060059938" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1576061142186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576061142186" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1576061142186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576061142186" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1576061142186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576061142186" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1576061142186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576061142186" />
   </component>
 </project>
